@@ -1,7 +1,7 @@
 ## Final Project - Travel Journal
 
 ## About 
-    This is a simple realtime chat application made to learn socket.io and express js.
+    ----
 
 ## Demo  ⚡
 
