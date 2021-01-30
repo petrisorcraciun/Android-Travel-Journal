@@ -3,10 +3,14 @@
 ## About 
     ----
 
-## Demo  ⚡
+## Demo 📱
 
+<p align="center">
+<img  src = "https://raw.githubusercontent.com/petrisorcraciun/Android-Travel-Journal/main/screenshots/1.png"  width="250"  height="450"> <img  src = "https://raw.githubusercontent.com/petrisorcraciun/Android-Travel-Journal/main/screenshots/2.png"  width="250"  height="450"> <img  src = "https://raw.githubusercontent.com/petrisorcraciun/Android-Travel-Journal/main/screenshots/3.png"  width="250"  height="450"> <img  src = "https://raw.githubusercontent.com/petrisorcraciun/Android-Travel-Journal/main/screenshots/4.png"  width="250"  height="450"> <img  src = "https://raw.githubusercontent.com/petrisorcraciun/Android-Travel-Journal/main/screenshots/5.png"  width="250"  height="450"> <img  src = "https://raw.githubusercontent.com/petrisorcraciun/Android-Travel-Journal/main/screenshots/6.png"  width="250"  height="450"> <img  src = "https://raw.githubusercontent.com/petrisorcraciun/Android-Travel-Journal/main/screenshots/7.png"  width="250"  height="450"> <img  src = "https://raw.githubusercontent.com/petrisorcraciun/Android-Travel-Journal/main/screenshots/8.png"  width="250"  height="450">
+</p>
 
-## Requirments📝
+## Requirments 📝
+
 * Splashscreen with the icon and the name of the app
 * Main screen
   - It is a navigation drawer activity
