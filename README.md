@@ -1,7 +1,7 @@
 ## Final Project - Travel Journal
 
 ## About 
-    ----
+    Final project for Android Fundamentals course - Google Digital Workshop for Programmers.
 
 ## Demo 📱
 
