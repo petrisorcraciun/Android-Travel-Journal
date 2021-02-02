@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/baumans</item>
+        <item>@font/cabin_medium</item>
+        <item>@font/dynalight</item>
+        <item>@font/work_sans_extralight</item>
+    </array>
+</resources>
